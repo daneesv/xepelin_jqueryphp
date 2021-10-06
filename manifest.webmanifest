@@ -1,0 +1,25 @@
+{
+    "short_name": "Xepelin",
+    "name": "Xepelin",
+    "description": "Soñamos con un mercado en donde no existan barreras de entradas para el financiamiento de las pymes en Latinoamérica.",
+    "start_url": "/xepelin",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#27204E",
+    "dir": "ltr",
+    "lang": "es",
+    "orientation": "any",
+    "icons": [
+        {
+            "src": "/xepelin/resources/appicons/icons-192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/xepelin/resources/appicons/icons-512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
